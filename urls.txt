@@ -1,2 +1,1 @@
-https://www.investing.com/rss/market_overview_Technical.rss
 https://finance.yahoo.com/news/rssindex
