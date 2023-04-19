@@ -1,2 +1,2 @@
 https://finance.yahoo.com/news/rssindex
-https://raw.githubusercontent.com/B14X/rsslinks/main/urls.txt
+http://www.economist.com/feeds/print-sections/77/business.xml
