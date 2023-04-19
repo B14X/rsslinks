@@ -1,1 +1,2 @@
 https://finance.yahoo.com/news/rssindex
+https://raw.githubusercontent.com/B14X/rsslinks/main/urls.txt
