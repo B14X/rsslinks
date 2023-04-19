@@ -1,2 +1,2 @@
 https://finance.yahoo.com/news/rssindex
-http://www.economist.com/feeds/print-sections/77/business.xml
+https://seekingalpha.com/market_currents.xml
